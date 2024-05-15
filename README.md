@@ -7,4 +7,4 @@ Link: https://mystery.knightlab.com/#experienced
 There's been a Murder in SQL City! 
 This was a fun exercise from Knightlab. You get a series of clues and have to write SQL statements to help your investigation.
 
-## Spoiler alert: Miranda dunnit!!
+## 👀 Spoiler alert: Miranda dunnit!!
